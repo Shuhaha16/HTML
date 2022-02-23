@@ -1,0 +1,2 @@
+tasks:
+  - init: npm install -g browser-sync && alias startweb='npx browser-sync start -s -w' && clear && npx browser-sync start -s -w
